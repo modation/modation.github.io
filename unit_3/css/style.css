@@ -1,5 +1,6 @@
 body {
-	background: orange;
+	background: url(images\superhero1.jpg);
+	background-size: cover;
 }
 
 h1, p {
@@ -7,5 +8,5 @@ h1, p {
 }
 
 #slogan	{
-	font-size: 40px;
+	font-size: 20px;
 }
