@@ -1,10 +1,10 @@
 body {
-	background: url(images\superhero1.jpg);
+	background: url(unit_3\images\superhero1.jpg);
 	background-size: cover;
 }
 
 h1, p {
-	color: rgb(50,200,255);
+	color: rgb(50,50,255);
 }
 
 #slogan	{
