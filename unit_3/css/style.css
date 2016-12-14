@@ -1,12 +1,12 @@
 body {
 	background: url("C:\Users\Neo\Desktop\super.png");
 	background-size: cover;
-	font-style: Helvetica;
+	
 }
 
 h1, p {
-	color: rgb(100,50,255);
-	
+	color: rgb(100,100,255);
+	font-style: Helvetica;
 }
 
 #slogan	{
